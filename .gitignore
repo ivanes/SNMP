@@ -1,0 +1,14 @@
+build/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+compile_commands.json
+.cache/
+.idea/
+.vscode/
+*.swp
+__pycache__/
+*.pyc

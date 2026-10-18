@@ -1,0 +1,15 @@
+Third-party components
+======================
+
+FreeRTOS-Kernel V11.2.0
+  Source : https://github.com/FreeRTOS/FreeRTOS-Kernel
+  License: MIT (see FreeRTOS-Kernel/LICENSE.md)
+  Files  : kernel sources + GCC/ARM_CM4F port + heap_4
+
+CMSIS 5 Cortex-M4 core headers (from STM32CubeF4)
+  Source : https://github.com/STMicroelectronics/STM32CubeF4 (Drivers/CMSIS)
+  License: Apache-2.0 (see CMSIS/LICENSE.txt)
+
+CMSIS Device STM32F4 (stm32f411xe)
+  Source : https://github.com/STMicroelectronics/cmsis_device_f4
+  License: BSD-3-Clause (see CMSIS/Device/ST/STM32F4xx/LICENSE.md)
